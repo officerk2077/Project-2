@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +19,16 @@
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\styles\\main_styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive - office 365\\project2\\code\\backend\\kienauto\\kienauto\\plugins\\owlcarousel2-2.2.1\\owl.carousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\plugins\\owlcarousel2-2.2.1\\owl.carousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\plugins\\owlcarousel2-2.2.1\\owl.carousel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive - office 365\\project2\\code\\backend\\kienauto\\kienauto\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\kienauto\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "KienAuto\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "KienAuto\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABQBAAAAAAAAAAAAAC4BAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAqwOIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T12:34:24.887Z",
               "IsPinned": true,
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main_styles.css",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\styles\\main_styles.css",
               "RelativeDocumentMoniker": "KienAuto\\styles\\main_styles.css",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "owl.carousel.js",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
               "RelativeDocumentMoniker": "KienAuto\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "custom.js",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\js\\custom.js",
               "RelativeDocumentMoniker": "KienAuto\\js\\custom.js",
@@ -108,23 +108,25 @@
               "RelativeToolTip": "KienAuto\\Areas\\Admin\\AdminAreaRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T07:14:03.114Z"
+              "WhenOpened": "2024-10-31T07:14:03.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\Home\\Contact.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\Views\\Home\\Contact.cshtml",
               "RelativeToolTip": "KienAuto\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T12:36:26.529Z"
+              "WhenOpened": "2024-10-24T12:36:26.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KienAuto\\Controllers\\HomeController.cs",
@@ -132,17 +134,18 @@
               "RelativeToolTip": "KienAuto\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:35:32.092Z"
+              "WhenOpened": "2024-10-24T12:35:32.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive - Office 365\\Project2\\code\\Backend\\KienAuto\\KienAuto\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KienAuto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAE4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T12:33:56.946Z",
               "EditorCaption": ""
