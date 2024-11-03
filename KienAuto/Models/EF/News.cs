@@ -10,7 +10,7 @@ namespace KienAuto.Models.EF
     [Table("tb_News")]
     public class News : CommonAbstract
     {
-        [Key]
+        [key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]

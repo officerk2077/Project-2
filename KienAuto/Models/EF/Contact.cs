@@ -10,7 +10,7 @@ namespace KienAuto.Models.EF
     [Table("tb_ Contact")]
     public class Contact : CommonAbstract
     {
-        [Key]
+        [key]
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required(ErrorMessage = "Tên khôgn được để trống")]

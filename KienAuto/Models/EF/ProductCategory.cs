@@ -10,7 +10,7 @@ namespace KienAuto.Models.EF
     [Table("tb_ProductCategory")]
     public class ProductCategory : CommonAbstract
     {
-        [Key]
+        [key]
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]

@@ -11,7 +11,7 @@ namespace KienAuto.Models.EF
     [Table("tb_Subscribe")]
     public class Subscribe
     {
-        [Key]
+        [key]
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Email { get; set; }

@@ -11,7 +11,7 @@ namespace KienAuto.Models.EF
     [Table("tb_Posts")]
     public class Posts:CommonAbstract
     {
-        [Key]
+        [key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]
