@@ -90,7 +90,7 @@
     <Property Name="CreatedDate" Type="datetime" />
     <Property Name="CreatedBy" Type="nvarchar" MaxLength="150" />
     <Property Name="ModifierDate" Type="datetime" />
-    <Property Name="ModifierBy" Type="nvarchar" MaxLength="150" />
+    <Property Name="ModifierBy" Type="nvarchar" MaxLength="500" />
   </EntityType>
   <EntityType Name="tb_Product">
     <Key>
