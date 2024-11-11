@@ -73,34 +73,31 @@ ul
 	list-style: none;
 	margin-bottom: 0px;
 }
-p
-{
+p {
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	font-weight: 500;
 	color: #989898;
 	-webkit-font-smoothing: antialiased;
-	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
-p a
-{
-	display: inline;
-	position: relative;
-	color: inherit;
-	border-bottom: solid 2px #fde0db;
-	-webkit-transition: all 200ms ease;
-	-moz-transition: all 200ms ease;
-	-ms-transition: all 200ms ease;
-	-o-transition: all 200ms ease;
-	transition: all 200ms ease;
-}
-a, a:hover, a:visited, a:active, a:link
-{
+	p a {
+		display: inline;
+		position: relative;
+		color: inherit;
+		border-bottom: solid 2px #fde0db;
+		-webkit-transition: all 200ms ease;
+		-moz-transition: all 200ms ease;
+		transition: all 0.3s ease;
+		-o-transition: all 200ms ease;
+		transition: all 200ms ease;
+	}
+a, a:hover, a:visited, a:active, a:link {
 	text-decoration: none;
 	-webkit-font-smoothing: antialiased;
-	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
 p a:active
@@ -132,11 +129,10 @@ h3{font-size: 28px;}
 h4{font-size: 24px;}
 h5{font-size: 16px;}
 h6{font-size: 14px;}
-h1, h2, h3, h4, h5, h6
-{
+h1, h2, h3, h4, h5, h6 {
 	color: #282828;
 	-webkit-font-smoothing: antialiased;
-	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
 h1::selection,
@@ -172,7 +168,7 @@ h6::selection
 	font-weight: 500;
 	color: #777777 !important;
 }
-::input-placeholder
+-input-placeholder
 {
 	font-size: 16px !important;
 	font-weight: 500;
@@ -213,19 +209,17 @@ section
 {
 	float: right;
 }
-.trans_200
-{
+.trans_200 {
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
-	-ms-transition: all 200ms ease;
+	transition: all 0.3s ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
-.trans_300
-{
+.trans_300 {
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 0.3s ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -233,7 +227,7 @@ section
 {
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
-	-ms-transition: all 400ms ease;
+	transition: all 400ms ease;
 	-o-transition: all 400ms ease;
 	transition: all 400ms ease;
 }
@@ -241,7 +235,7 @@ section
 {
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
-	-ms-transition: all 500ms ease;
+	transition: all 500ms ease;
 	-o-transition: all 500ms ease;
 	transition: all 500ms ease;
 }
@@ -334,7 +328,7 @@ section
 	box-shadow: 0 0 25px rgba(63, 78, 100, 0.15);
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
-	-ms-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
 	-o-transition: opacity 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -353,7 +347,7 @@ section
 	text-transform: uppercase;
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
-	-ms-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
 	-o-transition: opacity 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -416,7 +410,7 @@ section
 	box-shadow: 0 0 25px rgba(63, 78, 100, 0.15);
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
-	-ms-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
 	-o-transition: opacity 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -434,7 +428,7 @@ section
 	font-size: 13px;
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
-	-ms-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
 	-o-transition: opacity 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -495,7 +489,7 @@ section
 	box-shadow: 0 0 25px rgba(63, 78, 100, 0.15);
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
-	-ms-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
 	-o-transition: opacity 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -513,7 +507,7 @@ section
 	font-size: 14px;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
-	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -562,7 +556,7 @@ section
 	padding: 20px;
 	-webkit-transition: color 0.3s ease;
 	-moz-transition: color 0.3s ease;
-	-ms-transition: color 0.3s ease;
+	transition: color 0.3s ease;
 	-o-transition: color 0.3s ease;
 	transition: color 0.3s ease;
 }
@@ -595,7 +589,7 @@ section
 	color: #1e1e27;
 	-webkit-transition: color 0.3s ease;
 	-moz-transition: color 0.3s ease;
-	-ms-transition: color 0.3s ease;
+	transition: color 0.3s ease;
 	-o-transition: color 0.3s ease;
 	transition: color 0.3s ease;
 }
@@ -644,7 +638,7 @@ section
 	color: #1e1e27;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -663,7 +657,7 @@ section
 	z-index: 10;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -683,7 +677,7 @@ section
 	pointer-events: none;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
-	-ms-transition: all 200ms ease;
+	transition: all 200ms ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
@@ -701,7 +695,7 @@ section
 	color: #1e1e27;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -756,7 +750,7 @@ section
 	z-index: 1;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
-	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -775,7 +769,7 @@ section
 	text-transform: uppercase;
 	-webkit-transition: opacity 0.3s ease;
 	-moz-transition: opacity 0.3s ease;
-	-ms-transition: opacity 0.3s ease;
+	transition: opacity 0.3s ease;
 	-o-transition: opacity 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -810,9 +804,8 @@ section
 	font-weight: 700;
 	text-transform: uppercase;
 }
-.logo_container a span
-{
-	color: #fe4c50;
+.logo_container span {
+	color: #2196F3!important;
 }
 
 /*********************************
@@ -859,7 +852,7 @@ section
 	border-radius: 3px;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
-	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -928,7 +921,7 @@ section
 	width: 100%;
 	-webkit-transition: color 0.3s ease;
 	-moz-transition: color 0.3s ease;
-	-ms-transition: color 0.3s ease;
+	transition: color 0.3s ease;
 	-o-transition: color 0.3s ease;
 	transition: color 0.3s ease;
 }
@@ -1025,7 +1018,7 @@ section
 	border-radius: 3px;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
-	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -1043,6 +1036,7 @@ section
 .product_image
 {
 	width: 100%;
+	/*height: 220px;*/
 }
 .product_image img
 {
@@ -1153,7 +1147,7 @@ section
 	opacity: 0;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
-	-ms-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -1357,7 +1351,7 @@ section
 	opacity: 0;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -1483,7 +1477,7 @@ section
 	transform: scale(0.7);
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -1594,12 +1588,12 @@ section
 	font-weight: 400;
 	color: #b9b4c7 !important;
 }
-#newsletter_email::input-placeholder
-{
+#newsletter_email::placeholder {
 	font-size: 14px !important;
 	font-weight: 400;
 	color: #b9b4c7 !important;
 }
+
 .newsletter_submit_btn
 {
 	width: 160px;
@@ -1645,7 +1639,7 @@ section
 	line-height: 30px;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 }
@@ -1671,7 +1665,7 @@ section
 	color: #51545f;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
+	transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
 	padding: 10px;

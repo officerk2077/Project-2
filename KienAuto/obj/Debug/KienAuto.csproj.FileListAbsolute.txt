@@ -322,3 +322,5 @@ C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKie
 C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\obj\Debug\KienAuto.csproj.Up2Date
 C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\obj\Debug\KienAuto.dll
 C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\obj\Debug\KienAuto.pdb
+C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\bin\CKFinder.dll
+C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\bin\CKFinder.pdb

@@ -10,6 +10,10 @@ namespace KienAuto.Models.EF
     [Table("tb_Category")]
     public class Category : CommonAbstract
     {
+        public Category()
+        {
+            this.News = new HashSet<News>();
+        }
         [key]
         [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
@@ -19,5 +23,8 @@ namespace KienAuto.Models.EF
         public string SeoDescription { get; set; }
         public string SeoKeywords { get; set; }
         public int Position { get; set; }
+
+        public ICollection<News> News { get; set; }
+        public ICollection<Posts> Posts { get; set; }
     }
 }

@@ -24,5 +24,7 @@ namespace KienAuto.Models.EF
         public string SepTitle { get; set; }
         public string SeoDescription { get; set; }
         public string SeoKeywords { get; set; }
+
+        public virtual Category Category { get; set; }
     }
 }

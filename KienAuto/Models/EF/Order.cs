@@ -9,6 +9,11 @@ namespace KienAuto.Models.EF
     [Table("tb_Order")]
     public class Order
     {
+
+        public Order() 
+        { 
+            this.OrderDetails = new HashSet<OrderDetail>();
+        }
         [key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
@@ -19,5 +24,6 @@ namespace KienAuto.Models.EF
         public decimal TotalAmount { get; set; }
         public int Quantity { get; set; }
 
+        public ICollection<OrderDetail> OrderDetails { get; set; }
     }
 }
