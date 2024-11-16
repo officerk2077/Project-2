@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,28 +27,32 @@
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|c:\\users\\wwwki\\onedrive\\project2\\code\\backend\\k22cnt4-nguyentruckien-2210900033-project2\\kienauto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -83,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\danhmuc\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\kienauto\\areas\\admin\\views\\danhmuc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03F689D2-3C72-46BC-BE5F-3C9C64A85F38}|KienAuto\\KienAuto.csproj|solutionrelative:kienauto\\areas\\admin\\views\\danhmuc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -119,19 +123,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KienAuto\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T06:26:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\ShoppingCart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\ShoppingCart\\Checkout.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\ShoppingCart\\Checkout.cshtml",
               "RelativeToolTip": "KienAuto\\Views\\ShoppingCart\\Checkout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T10:27:33.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\ShoppingCart\\Index.cshtml",
@@ -139,12 +156,11 @@
               "RelativeToolTip": "KienAuto\\Views\\ShoppingCart\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T10:25:05.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T10:25:05.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IdentityModels.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\IdentityModels.cs",
               "RelativeDocumentMoniker": "KienAuto\\Models\\IdentityModels.cs",
@@ -152,12 +168,11 @@
               "RelativeToolTip": "KienAuto\\Models\\IdentityModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:01:46.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T10:01:46.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "KienAuto\\Controllers\\ShoppingCartController.cs",
@@ -165,25 +180,23 @@
               "RelativeToolTip": "KienAuto\\Controllers\\ShoppingCartController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:54:36.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T09:54:36.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "KienAuto\\Models\\ShoppingCart.cs",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\ShoppingCart.cs",
               "RelativeToolTip": "KienAuto\\Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:53:02.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T09:53:02.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "KienAuto\\Models\\CartItem.cs",
@@ -191,12 +204,11 @@
               "RelativeToolTip": "KienAuto\\Models\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:51:58.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T09:51:58.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\Product.cs",
               "RelativeDocumentMoniker": "KienAuto\\Models\\Product.cs",
@@ -204,12 +216,11 @@
               "RelativeToolTip": "KienAuto\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:46:28.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T09:46:28.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\Home\\Contact.cshtml",
@@ -221,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\Home\\Index.cshtml",
@@ -229,25 +240,23 @@
               "RelativeToolTip": "KienAuto\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T11:50:55.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:50:55.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KienAuto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwEEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T11:50:49.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:50:49.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Model1.tt",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\Model1.tt",
               "RelativeDocumentMoniker": "KienAuto\\Models\\Model1.tt",
@@ -259,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Model1.edmx.diagram",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\Model1.edmx.diagram",
               "RelativeDocumentMoniker": "KienAuto\\Models\\Model1.edmx.diagram",
@@ -267,36 +276,35 @@
               "RelativeToolTip": "KienAuto\\Models\\Model1.edmx.diagram",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-11T11:46:34.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:46:34.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\Model1.edmx",
               "RelativeDocumentMoniker": "KienAuto\\Models\\Model1.edmx",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "KienAuto\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-11T11:38:02.826Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-11-11T11:38:02.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KienAuto\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFABAAAAAAAAAAAAAGQBAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwJsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T02:36:08.793Z"
+              "WhenOpened": "2024-11-11T02:36:08.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
@@ -308,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Product\\Add.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\Product\\Add.cshtml",
@@ -320,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -332,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\Product\\Index.cshtml",
@@ -344,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "tb_Product.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\tb_Product.cs",
               "RelativeDocumentMoniker": "KienAuto\\Models\\tb_Product.cs",
@@ -356,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "tb_ProductCategory.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Models\\tb_ProductCategory.cs",
               "RelativeDocumentMoniker": "KienAuto\\Models\\tb_ProductCategory.cs",
@@ -368,19 +376,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "_PartiaSidebar.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Shared\\_PartiaSidebar.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\Shared\\_PartiaSidebar.cshtml",
               "ToolTip": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\Shared\\_PartiaSidebar.cshtml",
               "RelativeToolTip": "KienAuto\\Areas\\Admin\\Views\\Shared\\_PartiaSidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T01:44:24.252Z"
+              "WhenOpened": "2024-11-11T01:44:24.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\DanhMuc\\Index.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\DanhMuc\\Index.cshtml",
@@ -392,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -404,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\DanhMuc\\Edit.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\DanhMuc\\Edit.cshtml",
@@ -416,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Views\\DanhMuc\\Add.cshtml",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Views\\DanhMuc\\Add.cshtml",
@@ -428,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DanhMucController.cs",
               "DocumentMoniker": "C:\\Users\\wwwki\\OneDrive\\Project2\\code\\Backend\\K22CNT4-NguyenTrucKien-2210900033-Project2\\KienAuto\\Areas\\Admin\\Controllers\\DanhMucController.cs",
               "RelativeDocumentMoniker": "KienAuto\\Areas\\Admin\\Controllers\\DanhMucController.cs",
