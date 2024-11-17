@@ -139,6 +139,14 @@
     <Property Name="SettingValue" Type="nvarchar(max)" />
     <Property Name="SettingDescription" Type="nvarchar" MaxLength="250" />
   </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
   <Association Name="FK_tb_Product_tb_ProductCategory">
     <End Role="tb_ProductCategory" Type="Self.tb_ProductCategory" Multiplicity="0..1" />
     <End Role="tb_Product" Type="Self.tb_Product" Multiplicity="*" />
@@ -163,6 +171,7 @@
     <EntitySet Name="tb_ProductCategory" EntityType="Self.tb_ProductCategory" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="tb_Subscribe" EntityType="Self.tb_Subscribe" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="tb_SystemSetting" EntityType="Self.tb_SystemSetting" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK_tb_Product_tb_ProductCategory" Association="Self.FK_tb_Product_tb_ProductCategory">
       <End Role="tb_ProductCategory" EntitySet="tb_ProductCategory" />
       <End Role="tb_Product" EntitySet="tb_Product" />

@@ -22,6 +22,18 @@
 <body>
     <!-- Header -->
 
+    <ul class="nav navbar-nav navbar-right">
+        @if (Session["Username"] != null)
+        {
+            <li><a href="#">Xin chào, @Session["Username"]</a></li>
+            <li>@Html.ActionLink("Đăng xuất", "Logout", "Account")</li>
+        }
+        else
+        {
+            <li>@Html.ActionLink("Đăng nhập", "Login", "Account")</li>
+        }
+    </ul>
+
     <header class="header trans_300">
 
 

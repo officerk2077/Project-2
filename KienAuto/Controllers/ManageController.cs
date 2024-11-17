@@ -306,7 +306,7 @@ namespace KienAuto.Controllers
         public ActionResult LinkLogin(string provider)
         {
             // Request a redirect to the external login provider to link a login for the current user
-            return new AccountController.ChallengeResult(provider, Url.Action("LinkLoginCallback", "Manage"), User.Identity.GetUserId());
+            return new KienAuto.Controllers.AccountController.ChallengeResult(provider, Url.Action("LinkLoginCallback", "Manage"), User.Identity.GetUserId());
         }
 
         //
@@ -385,5 +385,32 @@ namespace KienAuto.Controllers
         }
 
 #endregion
+    }
+
+    internal class AccountController
+    {
+        internal class ChallengeResult : ActionResult
+        {
+            private readonly string _provider;
+            private readonly string _redirectUri;
+            private readonly string _userId;
+
+            public ChallengeResult(string provider, string redirectUri, string userId)
+            {
+                _provider = provider;
+                _redirectUri = redirectUri;
+                _userId = userId;
+            }
+
+            public override void ExecuteResult(ControllerContext context)
+            {
+                // Logic to challenge the external provider for authentication
+                // For example, redirecting to the external login provider
+                var properties = new AuthenticationProperties { RedirectUri = _redirectUri };
+                properties.Dictionary["User Id"] = _userId;
+
+                context.HttpContext.GetOwinContext().Authentication.Challenge(properties, _provider);
+            }
+        }
     }
 }

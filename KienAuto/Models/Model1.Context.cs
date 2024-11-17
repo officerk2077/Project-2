@@ -36,5 +36,6 @@ namespace KienAuto.Models
         public virtual DbSet<tb_ProductCategory> tb_ProductCategory { get; set; }
         public virtual DbSet<tb_Subscribe> tb_Subscribe { get; set; }
         public virtual DbSet<tb_SystemSetting> tb_SystemSetting { get; set; }
+        public virtual DbSet<User> Users { get; set; }
     }
 }

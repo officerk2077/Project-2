@@ -17,6 +17,7 @@
         <EntityTypeShape EntityType="KienAutoModel.tb_Subscribe" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
         <EntityTypeShape EntityType="KienAutoModel.tb_SystemSetting" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
         <AssociationConnector Association="KienAutoModel.FK_tb_Product_tb_ProductCategory" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="KienAutoModel.User" Width="1.5" PointX="5.375" PointY="9.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
