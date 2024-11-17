@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\wwwki\OneDrive - Office 365\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\Models\Model1.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\wwwki\OneDrive\Project2\code\Backend\K22CNT4-NguyenTrucKien-2210900033-Project2\KienAuto\Models\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

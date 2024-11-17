@@ -25,6 +25,7 @@ namespace KienAuto.Models
             throw new UnintentionalCodeFirstException();
         }
     
+        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<tb_Adv> tb_Adv { get; set; }
         public virtual DbSet<tb_Contact> tb_Contact { get; set; }
         public virtual DbSet<tb_News> tb_News { get; set; }
